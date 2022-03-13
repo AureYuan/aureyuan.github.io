@@ -1,5 +1,4 @@
 # Aureliano's Blogs
 Welcome to my place of rethinking life.
 
-# Will this be my second blog
-Hello, nice to see you.
+# [This is my first post](./_posts/2022-03-14-first/ "My first post")
