@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+webrick:
+  headers:
+    My-Header: "my Blogs"
+    My-Other-Header: My-Other-Value

@@ -1,2 +1,2 @@
-# This my my Blogs
-Welcome
+# Aureliano's Blogs
+Welcome to my place of rethinking life.
