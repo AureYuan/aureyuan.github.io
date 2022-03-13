@@ -1,5 +1,11 @@
 theme: jekyll-theme-leap-day
-webrick:
-  headers:
-    My-Header: "my Blogs"
-    My-Other-Header: My-Other-Value
+lsi: false
+safe: true
+source: aureliano-y.github.io/
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
