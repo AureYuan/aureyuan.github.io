@@ -1,3 +1,3 @@
 layout: page
 title: "My Blogs"
-permalink: /
+permalink: /index.md/
