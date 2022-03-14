@@ -1,10 +1,13 @@
-# Aureliano's Blogs
-Welcome to my place of rethinking life.
+---
+---
 
-## [This is my first post](./test "My first post")    
-
-## [Another form](aureliano-y.github.io/test "My first post")    
-
-## [And Another form](aureliano-y.github.io/_post/2022-03-14-first.md "My first post")     
-
-## [And Another form](aureliano-y.github.io/_post/2022-03-14-first "My first post") 
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>{{ "Hello World!" | downcase }}</h1>
+  </body>
+</html>
