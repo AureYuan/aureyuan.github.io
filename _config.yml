@@ -132,9 +132,4 @@ friends: [
         href: "http://ingf.github.io/"
     }
 ]
-=======
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-title: Aureliano's Blog
-description: Welcome to my blog where store my thinkings
->>>>>>> 4da3be5e4aff6fe24b5b55cd8d82a8540ec2e30b
