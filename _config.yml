@@ -1,4 +1,4 @@
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 title: Aureliano's Blog
 description: Welcome to my blog where store my thinkings
