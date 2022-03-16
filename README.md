@@ -25,3 +25,9 @@ they are connected through the command
 [{{ content }}](https://jekyllrb.com/tutorials/convert-site-to-jekyll/#2-identify-the-content-part-of-the-layout)
 , and this command allow the text pass through all layers of layout.
 </p>
+
+### the _includes folder and `include` command
+<p>
+If we want partially use a written code from some file, for example html, we can put it into *_include* folder. <br>
+Then we can use `{% include file.ext %} to reference that piece of code inside specified file.
+</p>
