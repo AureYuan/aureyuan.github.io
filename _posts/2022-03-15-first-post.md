@@ -1,7 +1,9 @@
 ---
 layout: post
+title: "first post"
+date: 2022-03-15
 ---
 
-#This is my first post
-<br>
+# what
+## This is my first post
 Welcome!
